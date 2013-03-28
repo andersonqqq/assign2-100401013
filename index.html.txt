@@ -1,0 +1,226 @@
+<html>
+<head>
+<title>陳建安個人資料</title>
+
+
+
+<style type="text/css">
+
+
+body{
+     background:url(http://25.media.tumblr.com/a27816d3abd3b75f71c136852484df6b/tumblr_mkcu38441Y1s6aajko1_500.jpg);
+     background-repeat:repeat;
+     
+     font-size:18px;
+
+     font-family:'微軟正黑體', cursive;
+     background-color:#efefef;
+     text-align:center;
+     font-weight: bold;
+}
+
+h1{
+    word-spacing:0.2em;
+    color:#000000 ;
+    font-size:68px;
+    font-family:'Arial', cursive;
+    text-align:right;
+    border-style:hidden;
+    word-wrap: break-word;  
+}
+
+
+h2{
+    font-size:18px;
+    font-family:'Arial', cursive; 
+    text-align:left;
+    color:#ffffff; 
+    line-height:1.8em;
+    word-wrap: break-word
+}
+    
+
+h3{
+    font-size:18px;
+    font-family:'Arial', cursive; 
+    text-align:right;
+    color:#ffffff; 
+    line-height:1.8em;
+    word-wrap: break-word
+}
+
+h4{
+    font-size:18px;
+    font-family:'Arial', cursive; 
+    text-align:left;
+    color:#000000; 
+    word-wrap: break-word
+    
+}
+
+h5{
+    word-spacing:0.2em;
+    color:#000000 ;
+    font-size:200px;
+    font-family:'Arial,微軟正黑體;', cursive;
+    border-style:hidden;
+    text-align: center;
+    
+}
+
+h2.intro:first-line{
+    font-size:32px;
+    color:#000000 ;
+    line-height:2.0em;
+    letter-spacing:0.2em;
+    }
+    
+p{
+   
+    font-size:32px;
+    font-family:'Arial', cursive;
+    text-align:left;
+    color:#000000; 
+     border-style:solid;
+    border-color:#8b4513;
+    border-width:5px 5px 5px 5px;
+    padding:15px;
+    margin:0px 100px 0px 0px;
+    border-radius:15px 15px 15px 15px;
+}
+
+x{
+    font-size:24px;
+    font-family:'微軟正黑體', cursive;
+    text-align:center;
+    color:#000000; 
+     border-style:solid;
+    border-color:#ffffff;
+    border-width:2px 2px 2px 2px;
+    padding:5px;
+    margin:15px 15px 15px 15px;
+}
+
+a{
+    font-size:36px;
+    font-family:'Arial', cursive;
+    text-align:center;
+    text-decoration:none;
+    color:#0000ff;
+    
+    }
+a:hover{
+    text-decoration:underline;
+    color:#ffff00:
+}
+a:visited{
+    color:#0000cd;
+    
+}
+a:active{
+    color:#483d8b;
+}
+
+img.align-center{
+   
+    
+    margin:0px auto;
+
+}
+
+img.medium{
+    height:250px;
+    width:400px;
+}
+    
+
+img.small{
+    height:200px;
+    width:200px;
+}
+
+img.align-left{
+    float:left;
+    margin:120px 80px 120px 80px;
+}
+
+div{
+    -webkit-transform: scale(0.5);
+    -webkit-transform: rotate(15deg);
+    text-align: center;
+    padding: 10px;
+    background: #d2691e;
+  }
+ 
+  }
+  .nick{
+    line-height: 60px;
+  }
+  .sex{
+    font-size: 18px;
+    vertical-align: bottom;
+  }
+  
+
+
+}
+
+</style>
+</head>
+
+<body>
+  
+
+<h1>“Most people deserve better than they get.”
+<h3>by Anderson</h3>
+
+<hr>
+<br>
+<br>
+<img src="http://24.media.tumblr.com/b700a2ecb5af899e6203219dfa2124cb/tumblr_mkcur2vhzh1s6aajko1_500.png ">
+<br>
+我的名子是
+>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src="http://24.media.tumblr.com/cd71f7b1173b09a96eb8d96357b8925d/tumblr_mkcv39sYCN1s6aajko1_500.png ">
+<br>
+<br>
+<br>
+
+<h2>My picture<br>
+<img src="http://25.media.tumblr.com/43fbafadc307d190cecea9362dc09e1a/tumblr_mkcuaeJ66l1s6aajko1_500.jpg "><img src="http://24.media.tumblr.com/d376a9d097556674fce171d6e7d922e4/tumblr_mkcmy2t7OW1s6aajko1_500.jpg ">
+<br>這不是彭于晏的照片歐，是我的照片歐!
+
+<br>
+<br>
+<br>
+My Profile
+</h2>
+  <li class="nick">綽號:</li>
+  <li class="sex">性別:男</li>
+  <li class="birth">生日:82/0719</li>
+  <li class="edu">學歷:國立政治大學</li>
+  <li class="interesting">興趣:吃</li>
+  <li class="book">書籍:哈利波特</li>
+  <li class="email">信箱:100401013@nccu.edu.tw</li>
+  <li class="skill">技能:一點點的PS、illustrator，都略懂...</li>
+<br>
+<br>
+
+<a href="http://www.facebook.com/andersonqqq?ref=tn_tnmn" target="_blank">Want to know more?</a>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div>Bye Miss You</div>
+</body>
+</html>
